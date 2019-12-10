@@ -1,4 +1,4 @@
-# Kubernetes 101
+# Kubernetes 101 1
 ## Docker vs. Kubernetes
 Docker helps you package applications into images, and execute them in containers. Kubernetes is a robust platform for containerized applications. It abstracts away the underlying network infrastructure and hardware required to run them, simplifying their deployment, scaling, and management.
 
